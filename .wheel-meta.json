@@ -1,0 +1,22 @@
+{
+  "wheel_id": 655,
+  "structure": "umbrella",
+  "slug": "bestwebsitecreation-com-105",
+  "project": "web-design-brisbane-questions-to-ask-7173790f62c7abb0e80952fddb",
+  "parent_t1_ref": "bestwebsitecreation-com-152",
+  "node_role": "feeder",
+  "money_target": "bestwebsitecreation.com.au",
+  "primary_kw": "web design brisbane questions to ask",
+  "intended_url": "https://sitesau.github.io/bestwebsitecreation-com-105/",
+  "tier": "T2",
+  "writeback_nonce": "bf62617cb5cf341f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/web-design-brisbane-how-to-choose-434cacaee4d2bcbeec910c709c1e8/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
